@@ -2,6 +2,6 @@
 
 ## My first website
 
-- Exercise 1
+- [Electric Appliances](index.html)
 - Exercise 2
 - Exercise 3
