@@ -1,3 +1,3 @@
 # connections
 
-# testing
+A place to find learning resources
